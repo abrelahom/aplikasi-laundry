@@ -1,0 +1,7 @@
+1. import file db_laundry3.sql ke dalam database kalian
+2. buka folder ProjectLaundry
+3. buka folder src
+4. buka file login.java dengan aplikasi netbeans/yang lain lalu run
+
+5. cara cepat lihat file 	.png dan INSTRUKSI_GAMBAR2.png
+6. selamat mencoba :)
